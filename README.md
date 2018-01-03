@@ -12,3 +12,4 @@ What I learned while takign the course can be organized as follows:
 07. URL Interactions
 08. 1D-2D-3D Plotting
 09. Final Projects
+-The final projects were modeling population dynamics and doing a fun and difficult task of getting a heat sesnor to scan a room, collect                         data, display a graph of temperatures on an LED screen with the maximum and minimum temperatures, and have the motor point to the hottest object.
